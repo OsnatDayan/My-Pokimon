@@ -1,0 +1,23 @@
+*{
+     text-align: center;
+}
+body{
+   margin-left: 50px;
+   background-image: url('images.jpg');
+   background-size: cover;
+   background-attachment: fixed;
+   max-width: 99%;
+   
+}
+button{
+   background-color: palevioletred;
+   border-radius: 7px;
+  
+}
+#progress{
+   background-color: black;
+
+}
+.progress{
+   margin-right: 40px;
+}

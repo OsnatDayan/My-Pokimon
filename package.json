@@ -1,0 +1,23 @@
+{
+  "name": "pokimon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qpasdmx/Pokimom-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qpasdmx/Pokimom-Practice/issues"
+  },
+  "homepage": "https://github.com/qpasdmx/Pokimom-Practice#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
